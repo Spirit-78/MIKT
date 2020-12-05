@@ -1,0 +1,106 @@
+Integrative Pharmacogenomics Analysis of Patient Derived Xenografts
+
+https://www.biorxiv.org/content/10.1101/471227v1.full
+https://codeocean.com/capsule/0566399/tree/v1
+ + LaTeX formuli
+ + open source code
+ + cool figures
+ - i have no idea what the study is about??
+ - written in R? what?
+
+===============================================================================
+
+MetaGxData: Clinically Annotated Breast, Ovarian and Pancreatic Cancer Datasets and their Use in Generating a Multi-Cancer Gene Signature
+
+https://www.biorxiv.org/content/10.1101/052910v2
+https://codeocean.com/capsule/6438633/tree/v1
+
+ + open source code
+ + matrix figures very cool
+ + data is uploaded
+ - R again?
+ - i understand it but i can't find methodology, hypothesis and statistical tests
+
+===============================================================================
+
+A Neurodynamical Model for Working Memory
+
+https://github.com/theoboraud/ESN/blob/master/ReScience%20Article/ReScience_Article.pdf
+https://zenodo.org/record/3518002#.X8ro_M1KhPZ
+
+ + cool figures
+ + LaTeX
+ - CONFUSING
+ - i don't even know what code it's written in
+
+===============================================================================
+
+Rationally derived inhibitors of hepatitis C virus (HCV) p7 channel activity reveal prospect for bimodal antiviral therapy
+
+https://elifesciences.org/articles/52555/figures#fig1s5
+
+ + really cool visualizations
+ + free data
+ - TOO MUCH DATA
+
+===============================================================================
+
+Structural and functional characterization of G protein–coupled receptors with deep mutational scanning
+
+https://elifesciences.org/articles/54895/figures#figures-and-data
+
+ + lots of graphs and pretty colors
+ - i am lost
+
+===============================================================================
+
+A small protein encoded by a putative lncRNA regulates apoptosis and tumorigenicity in human colorectal cancer cells
+
+https://elifesciences.org/articles/53734/figures#figures-and-data
+
+ + cool!
+ - i don't even know how to begin to process the data
+
+===============================================================================
+
+Sustained TNF-α stimulation leads to transcriptional memory that greatly enhances signal sensitivity and robustness
+
+https://elifesciences.org/articles/61965/figures#figures-and-data
+
+ + so much
+
+===============================================================================
+
+In-silico analysis of myeloid cells across the animal kingdom reveals neutrophil evolution by colony-stimulating factors
+
+https://elifesciences.org/articles/60214/figures#figures-and-data
+
+ + i can do this?
+
+===============================================================================
+
+Inhibiting IRE1α-endonuclease activity decreases tumor burden in a mouse model for hepatocellular carcinoma
+
+https://elifesciences.org/articles/55865/figures#fig9s1
+ 
+ + support Nataša Pavlović
+ + cool graphs
+
+===============================================================================
+
+Forced choices reveal a trade-off between cognitive effort and physical pain
+
+https://elifesciences.org/articles/59410/figures#figures-and-data
+
+ + i can also try this?
+ 
+===============================================================================
+
+Revisiting the uncanny valley theory: Developing and validating an alternative
+to the Godspeed indices
+
+http://www.macdorman.com/kfm/writings/pubs/Ho2010UncannyValleyIndices.pdf
+
++ THIS IS FUN I'M DOING THIS
+
+===============================================================================
