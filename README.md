@@ -1,8 +1,8 @@
 # MIKT
 
-<a target="_blank" href="https://drive.google.com/drive/folders/1MsBZL04aW7aMGRCdMPIgTAGPvYCyAGdH?usp=sharing" style="display:block;border:'px solid black;">
+<a target="_blank" href="https://drive.google.com/drive/folders/1MsBZL04aW7aMGRCdMPIgTAGPvYCyAGdH?usp=sharing">
 Link to old k1 video~
-</a>
+</a> <br>
 <a target="_blank" href="https://drive.google.com/file/d/1ZJYfwEzES0hsQjy8dHkTL_E9FP45BEdO/view?usp=sharing">Link to new K2 video~</a>
 <br>
 I work with javascript so click 'Trusted' so my code can execute without issues :)
