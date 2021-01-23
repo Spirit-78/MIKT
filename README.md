@@ -1,6 +1,6 @@
 # MIKT
 
-<a target="_blank" href="https://drive.google.com/drive/folders/1MsBZL04aW7aMGRCdMPIgTAGPvYCyAGdH?usp=sharing">
+<a target="_blank" href="https://drive.google.com/drive/folders/1MsBZL04aW7aMGRCdMPIgTAGPvYCyAGdH?usp=sharing" style="display:block;border:'px solid black;">
 Link to old k1 video~
 </a>
 <a target="_blank" href="https://drive.google.com/file/d/1ZJYfwEzES0hsQjy8dHkTL_E9FP45BEdO/view?usp=sharing">Link to new K2 video~</a>
