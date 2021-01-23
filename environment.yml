@@ -111,6 +111,7 @@ dependencies:
   - zipp=3.4.0
   - zlib=1.2.11
   - zstd=1.4.5
+  - nodejs=10.13.0
   - pip:
     - pandas==1.1.4
     - pytz==2020.4
