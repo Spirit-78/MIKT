@@ -1,4 +1,4 @@
-# <div align="left" display="block">MIKT</div>    <div align="right" display="block" float="left" margin=0>[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Spirit-78/MIKT/6da7aaa8a74c9b24129b97bcfaf4c0d2ccd8ead1)</div>
+# <div align="center">MIKT</div><div align="right"  float="left" margin=0>[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Spirit-78/MIKT/6da7aaa8a74c9b24129b97bcfaf4c0d2ccd8ead1)</div>
 
 <a target="_blank" href="https://drive.google.com/drive/folders/1MsBZL04aW7aMGRCdMPIgTAGPvYCyAGdH?usp=sharing">
 Link to old k1 video~
